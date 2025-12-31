@@ -1,0 +1,5 @@
+{
+  "name": "RustLab Dashboard",
+  "description": "A professional, minimal homelab dashboard featuring semi-transparent rust-colored cards, real-time mock data monitoring for servers and VMs, and a sleek collapsible sidebar.",
+  "requestFramePermissions": []
+}
